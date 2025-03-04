@@ -1,5 +1,7 @@
 ## Hi, I'm Melih👋
 
+An AI enthusiast currently based in the United Kingdom, developing projects using LLMs and all that cool stuff!
+
 ### Some tech I'm currently using:
 
 ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
@@ -8,6 +10,7 @@
 ![Streamlit Badge](https://img.shields.io/badge/-Streamlit-3B4252?style=flat&logo=streamlit&logoColor=#FF4B4B)
 ![Jupyter Badge](https://img.shields.io/badge/-Jupyter-3B4252?style=flat&logo=jupyter&logoColor=#F37626)
 
+**How to reach me:** melihzgvnc@gmail.com 
 
 <!--
 **melihzgvnc/melihzgvnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
