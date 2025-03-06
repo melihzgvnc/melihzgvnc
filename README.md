@@ -1,8 +1,8 @@
 ## Hi, I'm Melih👋
 
-An AI enthusiast currently based in the United Kingdom, developing projects using LLMs and all that cool stuff! 🤖
+An AI Engineer currently based in the United Kingdom, developing projects using LLMs and all that cool stuff! 🤖
 
-Also, a web developer in the making 🛠️
+Also, a Web Developer in the making 🛠️
 
 ### Some tech I'm currently using:
 
