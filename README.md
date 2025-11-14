@@ -2,8 +2,6 @@
 
 An **AI Engineer** currently based in the United Kingdom, developing projects using LLMs and all that cool stuff! 🤖
 
-Also, **a Web Developer** in the making 🛠️
-
 ### Some tech I'm currently using:
 
 ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
